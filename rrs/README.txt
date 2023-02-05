@@ -11,7 +11,7 @@ Discrete Applied Mathematics, Volume 161, Issues 10–11, 2013, Pages 1556-1575.
 
 [Usage]
 
-> cd ****/RRS/rrs/
+> cd ****/RRS-main/rrs/
 > make FLAG="-D<option1> -D<option2> ..."
 > ./rrs <stringfile>
 
